@@ -1,9 +1,16 @@
-div {
-    width: 100%;
-    max-width: 200px;
-    height: 100vw;
-    border: 1px solid rgb(0, 0, 0);
-    font-size: 12;
-    font-weight: 400;
-    font-family: roboto;
+.red{
+    color: red;
+}
+
+.red {
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
+
+section {
+    height: 80vh;
+    border: 1px solid black;
 }
